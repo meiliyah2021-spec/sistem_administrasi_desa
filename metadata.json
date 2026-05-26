@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Administrasi Kependudukan Desa",
+  "description": "Sistem Administrasi Kependudukan Desa berbasis Flask, Oracle Database, PL/SQL, Bootstrap 5, dan Chart.js untuk UAS Basis Data Lanjut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
